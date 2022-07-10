@@ -1,6 +1,6 @@
 package gitTest;
 
-public class gitTestRename {
+public class gitTestRenamed {
     public static void main(String[] args) {
 
     }
